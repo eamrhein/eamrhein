@@ -7,7 +7,7 @@ body {
     font-size: 80px;
 }
 
-.skills i  {
+.skills > i  {
     border: 2px solid #efefef;
     border-radius: 3px;
     padding: 1rem;
